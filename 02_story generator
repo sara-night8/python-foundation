@@ -1,0 +1,15 @@
+#Gathering data
+name = input("Enter a name:")
+food = input("Enter a food:")
+place = input("Enter a place:")
+feeling = input("Enter a feeling:")
+pronoun = input ("Enter pronouns (he or she)")
+adj = input("Enter an adjective:")
+adje =input("Enter another adjective:")
+# Creating the story
+story = f"On a {adj} day, {name} were eating a {adje} {food} at the most wonderful, {place}. {pronoun} went to a dark and scary abandand carnival."
+stories = f"Then all of a sudden {name}, saw Ms.Suhair jump out from the dark, and felt {feeling}. No one knows what happend next."
+print ("\----AN AWESOME STORY----")
+print(story)
+print(stories)
+print("----THE END----")

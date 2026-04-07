@@ -9,4 +9,7 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 * Python 3
 * Vs Code (Via Codespaces)
 *Git for Version Control
+# Lesson 2: Lloyd's Story Generator
+- Created variables to recieve input from users
+- Used f'string to create a story using the users input
 
