@@ -1,0 +1,12 @@
+name = 'Sara'
+print(name, type(name))
+
+is_student = True
+print(is_student, type(is_student))
+
+age = 15
+print(age, type(age))
+
+score = 100
+print(isinstance(score, float))
+print (score, type(score))
