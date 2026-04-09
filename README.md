@@ -13,5 +13,9 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 - Created variables to recieve input from users
 - Used f'string to create a story using the users input
 # Lesson 3: Simple Math Calculator 
-- Created a simple math calculator that can add,                        subtract, multiply, and divide two numbers
+- Created a simple math calculator that can add, subtract, multiply, and divide two numbers
+#Lesson 4: Grade Report
+- Created a grade report
+- Used boolean
 
+````````````````````
