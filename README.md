@@ -17,5 +17,7 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 #Lesson 4: Grade Report
 - Created a grade report
 - Used boolean
+#Lesson 5: Conditional logic (if/else)
+- used if else and elif to handle ticket prices and secret passwords
 
 ````````````````````
