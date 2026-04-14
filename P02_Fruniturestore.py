@@ -7,12 +7,12 @@ lightning_lava_lamp_price = 100
 sales_tax = 0.088
 customer_one_total = 0
 custoner_one_itemization=""
-customer_one_total +=comfy_couch_price
+customer_one_total += comfy_couch_price
 custoner_one_itemization += comfy_couch_description + "\n"
 customer_one_tax = customer_one_total * sales_tax
 customer_one_total+=customer_one_tax
-print("\n"+"*"*30)
-print (    SUPER OFFICAL AND PROFESSIONAL RECIPT)
+print("\n" + "*"*30)
+print ("   SUPER OFFICAL AND PROFESSIONAL RECIPT")
 print("*"*30)
 print("\nCUSTOMER ITEMS:")
 print(custoner_one_itemization)
