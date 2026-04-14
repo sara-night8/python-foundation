@@ -5,19 +5,19 @@ super_spectecular_stellar_sofa_price = 335
 lightning_lava_lamp_desc = "Lightning Lava Lamp. Lights up any room. Strong glass and real wood. 40 in."
 lightning_lava_lamp_price = 100
 sales_tax = 0.088
-customer_one_total = 0
-custoner_one_itemization=""
-customer_one_total += comfy_couch_price
-custoner_one_itemization += comfy_couch_description + "\n"
-customer_one_tax = customer_one_total * sales_tax
-customer_one_total+=customer_one_tax
+cu_one_total = 0
+cu_one_itemization = ""
+cu_one_total+=comfy_couch_price
+cu_one_itemization += comfy_couch_description + "\n"
+cu_one_tax = cu_one_total * sales_tax
+cu_one_total += cu_one_tax
 print("\n" + "*"*30)
 print ("   SUPER OFFICAL AND PROFESSIONAL RECIPT")
 print("*"*30)
 print("\nCUSTOMER ITEMS:")
-print(custoner_one_itemization)
+print(cu_one_itemization)
 print("-"* 30)
-print(f"SUBTOTAL + TAX: ${customer_one_total:.2f}")
+print(f"SUBTOTAL + TAX: ${cu_one_total:.2f}")
 print("*"*30)
 print("THANK YOU FOR SHOPPING!")
 print("*"*30)
