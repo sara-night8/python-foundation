@@ -19,5 +19,9 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 - Used boolean
 #Lesson 5: Conditional logic (if/else)
 - used if else and elif to handle ticket prices and secret passwords
-
+#Lesson 6: Digital fortune cookie
+- devolped a resturant style fortune cookie simulatour with randomized "wisdom" and a lucky number
+- integreted 'random' module
+- used 'if/elif/else'
+- combined randomized text and integers
 ````````````````````
