@@ -21,7 +21,9 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 - used if else and elif to handle ticket prices and secret passwords
 #Lesson 6: Digital fortune cookie
 - devolped a resturant style fortune cookie simulatour with randomized "wisdom" and a lucky number
-- integreted 'random' module
-- used 'if/elif/else'
+- integreted 'random' module to enable non-linear program behavior
+- used 'if/elif/else' logic to map numeric values to string-based
 - combined randomized text and integers
+
 ````````````````````
+    
