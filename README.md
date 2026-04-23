@@ -24,6 +24,7 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 - integreted 'random' module to enable non-linear program behavior
 - used 'if/elif/else' logic to map numeric values to string-based
 - combined randomized text and integers
-
+#Lesson 6: The custom power tool (functions)
+-Mastered the ability to create reusable blocks of code using 'def'. This lesson focused on modular programming, breaking large problems into simillar, manageble "tools"
 ````````````````````
     
