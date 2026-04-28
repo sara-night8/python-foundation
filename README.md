@@ -14,20 +14,20 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 - Used f'string to create a story using the users input
 # Lesson 3: Simple Math Calculator 
 - Created a simple math calculator that can add, subtract, multiply, and divide two numbers
-#Lesson 4: Grade Report
+# Lesson 4: Grade Report
 - Created a grade report
 - Used boolean
-#Lesson 5: Conditional logic (if/else)
+# Lesson 5: Conditional logic (if/else)
 - used if else and elif to handle ticket prices and secret passwords
-#Lesson 6: Digital fortune cookie
+# Lesson 6: Digital fortune cookie
 - devolped a resturant style fortune cookie simulatour with randomized "wisdom" and a lucky number
 - integreted 'random' module to enable non-linear program behavior
 - used 'if/elif/else' logic to map numeric values to string-based
 - combined randomized text and integers
-#Lesson 6: The custom power tool (functions)
+# Lesson 6: The custom power tool (functions)
 -Mastered the ability to create reusable blocks of code using 'def'. This lesson focused on modular programming, breaking large problems into simillar, manageble "tools"
 - Created an adventure game "Big Rock Candy Mountain"
-#Lesson 7: Index and order
+# Lesson 7: Index and order
 -Learned about index
 -Learned about len
 - used "append" and "pop" functions
