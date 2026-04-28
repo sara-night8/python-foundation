@@ -9,13 +9,13 @@ def start_room():
         print("You made it to the bridge. YOUR FREE ENJOY A SCLICE OF AWESOMNESS")
 def treasure_room():
     print("\n---THE CANDY VAULT---")
-    print("Candy rains down.")
-    ch
-    current_room = "start"
-    print("Welcome to the Python Adventure Engine!")
-    while current_room !="end":
-        if current_room == "start":
-            current_room = start_room()
-        elif current_room == "treasure_room":
+
+print("Candy rains down.")
+current_room = "start"
+print("Welcome to the Python Adventure Engine!")
+while current_room !="end":
+    if current_room == "start":
+        current_room = start_room()
+    elif current_room == "treasure_room":
             current_room = treasure_room ()
 
