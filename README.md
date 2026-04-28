@@ -26,5 +26,10 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 - combined randomized text and integers
 #Lesson 6: The custom power tool (functions)
 -Mastered the ability to create reusable blocks of code using 'def'. This lesson focused on modular programming, breaking large problems into simillar, manageble "tools"
+- Created an adventure game "Big Rock Candy Mountain"
+#Lesson 7: Index and order
+-Learned about index
+-Learned about len
+-Created my own ice cream shop that isplayed different toppings and prices
 ````````````````````
     
