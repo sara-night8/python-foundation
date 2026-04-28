@@ -30,6 +30,7 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 #Lesson 7: Index and order
 -Learned about index
 -Learned about len
+- used "append" and "pop" functions
 -Created my own ice cream shop that isplayed different toppings and prices
 ````````````````````
     
