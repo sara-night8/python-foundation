@@ -32,5 +32,11 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 -Learned about len
 - used "append" and "pop" functions
 -Created my own ice cream shop that isplayed different toppings and prices
+# Lesson 8: File Handling
+- master the ability to read from and write to external text files to create persistent data storage
+# Project 10: It Tickiting System
+- gets students name and issues using input()
+- save the data to a file using "a" mode so it stays on the computer
+- open the file using "r" (Read) mode to show the admin what needs to be fixed
 ````````````````````
     

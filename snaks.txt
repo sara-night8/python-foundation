@@ -1,0 +1,5 @@
+Milkyways: available
+dried mango: available
+popcorn: unavailable
+fruit splits: available
+bell peppers: unavailable
