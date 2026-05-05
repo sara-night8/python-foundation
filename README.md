@@ -38,5 +38,9 @@ This my extremly professional, super masterly, coding journal for the 2026 After
 - gets students name and issues using input()
 - save the data to a file using "a" mode so it stays on the computer
 - open the file using "r" (Read) mode to show the admin what needs to be fixed
+# Lesson 9: rock paper scissors
+- created a human v bot rock paper scissors game
+- score is saved and uploaded to an external file
+
 ````````````````````
     
