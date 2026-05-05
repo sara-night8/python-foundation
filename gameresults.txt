@@ -1,0 +1,3 @@
+User: paper | Computer: paper | Result: Tie
+User: rock | Computer: rock | Result: Tie
+User: scissors | Computer: paper | Result: User wins
